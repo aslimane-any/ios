@@ -1,6 +1,6 @@
 {
-"name": "Monkey D Luffy",
-"studentClass": "5 info Groupe A",
-"age": 23,
-"image": "https://raw.githubusercontent.com/BenSalahMedAmine/JSONSample/master/luffy.jpg"
+"teacherName": "teacher name",
+"teacherAddress": "Sahloul sousse",
+"age": 33,
+"teacherPhoto": "https://raw.githubusercontent.com/BenSalahMedAmine/JSONSample/master/luffy.jpg"
 }
